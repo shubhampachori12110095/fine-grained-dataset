@@ -23,3 +23,13 @@ Collecting datasets for fine-grained image recognition, and providing a ready-to
 ### Download:
 #### Data/Annotations/Evaluation Code:[[click]](http://www.robots.ox.ac.uk/~vgg/data/fgvc-aircraft/archives/fgvc-aircraft-2013b.tar.gz)
 *****
+## Columbia Dogs with Parts Dataset
+![](https://ws1.sinaimg.cn/large/eac9dda7ly1fs2vv6klfkj20he08on6w.jpg)
+### Homepage: [[click]](https://people.eecs.berkeley.edu/~kanazawa/)
+### Details:
+#### Count: 8,351 images
+#### Class: 133 classes
+#### Tips: 8 part locations annotated for each image
+### Download:
+#### All the images in zip file (1.1GB)[[click]](ftp://ftp.umiacs.umd.edu/pub/kanazawa/CU_Dogs.zip)
+
