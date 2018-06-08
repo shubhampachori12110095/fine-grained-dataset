@@ -33,3 +33,14 @@ Collecting datasets for fine-grained image recognition, and providing a ready-to
 ### Download:
 #### All the images in zip file (1.1GB)[[click]](ftp://ftp.umiacs.umd.edu/pub/kanazawa/CU_Dogs.zip)
 
+*****
+
+# Others
+
+## MSR Image Recognition Challenge (IRC) @ IEEE ICME 2016
+
+### Homepage: [[click]](https://www.microsoft.com/en-us/research/project/msr-image-recognition-challenge-irc-ieee-icme-2016/)
+
+### Clickture Data Summary: [[click]](https://www.microsoft.com/en-us/research/wp-content/uploads/2014/03/clickture-data-summary.pdf)
+
+#### ![](https://ws1.sinaimg.cn/large/eac9dda7gy1fs3pcct4cyj20hp09g762.jpg)
